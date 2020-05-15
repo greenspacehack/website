@@ -1,0 +1,5 @@
+{ "index.html": {
+	"before": ["/templates/header.html"],
+	"after": ["/templates/close_page.html"]
+  }
+}

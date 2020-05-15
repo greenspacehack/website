@@ -1,0 +1,5 @@
+{ "*.html": {
+	"before": ["/templates/header.html", "/templates/start.html","<article id='content'>"],
+	"after": ["</article>","/templates/footer.html", "/templates/close_page.html"]
+  }
+}
