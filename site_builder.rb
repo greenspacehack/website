@@ -81,7 +81,7 @@ class SiteBuilder
 				output  = (gen['before'] || []).collect { |fr| render(root,dir,fr) }.join('')
 				output += partial
 				output += (gen['after' ] || []).collect { |fr| render(root,dir,fr) }.join('')
-				target_path.gsub!(/\.\w+/,'.html')
+				target_path.gsub!(/\.\w+?$/,'.html')
 				File.write(target_path, output)
 			else
 				if !File.exist?(target_path) ||
