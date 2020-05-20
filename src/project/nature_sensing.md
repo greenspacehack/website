@@ -18,11 +18,11 @@ A consortium of partners including the University of Oxford, University of Newca
 
 Sound data recoded by the AudioMoth during deployment will be stored on an encrypted SD Card within the device.
 
-Upon return of the devise, raw data will be processed by the University of Oxford’s Department of Computer Science to extract soundwave data for project analysis.
+Upon return of the device, raw data will be processed by the University of Oxford’s Department of Computer Science to extract soundwave data for project analysis.
 
 The original sound recording from the encrypted SD card will be destroyed in compliance with GDPR.
 
-No identifiable data will be stored by project partners, datasets used for analysis will also contain no identifiable information from those taking part in the study.
+No identifiable data will be stored by project partners. Datasets used for analysis will also contain no identifiable information from those taking part in the study.
 
 ### Interested?
 
