@@ -1,10 +1,10 @@
 <% set[ hero: "/images/hero/oxford_relaxing.jpg", headline: "About the project" ] %>
 
-The project brings together colleagues from the George Institute for Global Health, UK, at the University of Oxford and Oxfordshire County Council, to develop a crowdsource-enabled smartphone survey with multiple choice items and free text based on understanding and usability of greenspace. The project aims to facilitate better designs of greenspaces by providing robust evidence on which characteristics of greenspace contribute to promoting healthier urban environments at individual and local levels. 
+GreenspaceHack aims to facilitate better designs of greenspaces by providing robust evidence on which characteristics of greenspace citizens value most and which contribute to promoting healthier urban environments at individual and local levels.   The project utilises a crowdsource-enabled smartphone survey based on the validated NEST tool.  It consists of simple multiple choice items and free text based questions that will help urban planners understand the most important characteristics of greenspaces. 
 
-The project is delivered through a series of stakeholder workshops in order to develop, pilot and evaluate the smartphone app alongside the project partners. Our partners include Oxfordshire County Council, Oxford City Council and Smart Oxford, Cambridgeshire County Council and Smart Cambridge, NHS Healthy New Towns: Bicester Healthy New Town and Northstowe Healthy New Town.
+The first phase of the project was delivered through a series of stakeholder workshops in order to develop, pilot and evaluate the smartphone app. The project is led by the University of Oxford and the  Oxfordshire County Council and includes partners from the Oxford City Council and Smart Oxford, Cambridgeshire County Council and Smart Cambridge, University of Newcastle and NHS Healthy New Towns: Bicester Healthy New Town and Northstowe Healthy New Town.
 
-Greenspace Hack forms part of a wider Oxfordshire County Council innovation stream to develop and deploy ‘citizen sensing’ tools, helping upskill local communities to analyse and improve their environments beyond traditional ownership boundaries.  
+GreenspaceHack forms part of a wider Oxfordshire County Council innovation stream to develop and deploy ‘citizen sensing’ tools, helping upskill local communities to analyse and improve their environments beyond traditional ownership boundaries.  
 
 ### The team
 
