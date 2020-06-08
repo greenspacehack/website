@@ -26,6 +26,6 @@ No identifiable data will be stored by project partners. Datasets used for analy
 
 ### Interested?
 
-If you would like to volunteer as a Citizen Scientist or discuss the project further, you can contact stuart.cole@oxfordshire.gov.uk.
+If you would like to volunteer as a Citizen Scientist or discuss the project further, you can contact Sridhar.Raman@oxfordshire.gov.uk.
 
 This project has been funded by a Research England grant awarded to the University of Oxford.
