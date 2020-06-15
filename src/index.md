@@ -1,22 +1,24 @@
 <% set[hero: "/images/hero/oxford_park.jpg", headline: "Greenspace Hack"] %>
 
-Greenspace Hack has created a smartphone app to provide detailed and granular data for local governments to design better green spaces for health and wellbeing.
+Emerging evidence suggests that greenspace, whether used for recreation or physical activity (i.e. ‘green exercise’), can improve mental health and wellbeing. Indeed, individuals who use greenspaces or engage in green exercise have less mental distress, less anxiety and depression and healthier cortisol levels (1).
 
-The app builds on NEST (Natural Environment Scoring Tool) to offer a simple, intuitive method for community groups, parish councils, and other stakeholders to provide information about their local green spaces - “curated crowdsourcing”.
+GreenspaceHack aims to facilitate better design of greenspaces to promote health by providing robust evidence on which characteristics of greenspace citizens value most and which contribute to promoting healthier urban environments at individual and local levels. The project aims to engage citizens and utilises a crowdsource-enabled smartphone survey based on the validated NEST tool (2) to offer a simple, intuitive method for community groups, parish councils, and other stakeholders to provide information about their local green spaces - “curated crowdsourcing”.
 
 As well as informing the planning process, the collected data is released openly for projects such as OpenStreetMap, so that better greenspace information is available to residents in the apps they use every day.
  
-### Our outcomes
+To see a list of the greenspaces that have been captured to date, please visit the Map and Directory pages.
 
-* Data for communities to pursue their own objectives
-* A publicly available open map documenting green spaces
-* Promoting green space as an agenda issue
-* Creating an open dataset and standardised survey that could be replicated globally
-* Creating a datasource setting a new standard of detail for global mapping resources
-* More publicly orientated local government  
+If you would like to get involved and capture information about your local greenspaces using the eNEST tool, please get in touch with us (anant.r.jani at gmail.com).
+
 
 ### Project partners
 
 [<img src="/images/logos/george_institute.png">](https://www.georgeinstitute.org) &nbsp;
 [<img src="/images/logos/oxfordshire.png">](https://www.oxfordshire.gov.uk/) &nbsp;
 [<img src="/images/logos/university_of_oxford.png">](https://www.ox.ac.uk/)
+
+
+### References
+
+1. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5663018/
+2. https://www.sciencedirect.com/science/article/abs/pii/S1618866717301917
