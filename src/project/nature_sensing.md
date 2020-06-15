@@ -1,6 +1,6 @@
 ## Nature Sensing
 
-The University of Oxford and Oxfordshire County Council are looking for Citizen Scientists across the county who are interested in documenting the presence of natural sound where they live.
+The University of Oxford, Oxfordshire County Council and Newcastle University are looking for Citizen Scientists across England who are interested in documenting the presence of natural sound where they live.
 
 Data collected will inform early explorations by academics at the University of Oxford, Newcastle University and King’s College, London into the soundscapes around us and how the audible presence of Nature (or lack thereof) may impact our lived experience, health & well-being.
 
