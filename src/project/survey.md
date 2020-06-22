@@ -12,7 +12,7 @@ In the future, we hope to extend Greenspace Hack to an opportunity audit and a c
 
 ### Survey questions and resources
 
-See the [documents](/projects/documents.html) page for survey downloads as well as information on the feedback that we used to modify the NEST survey.
+See the [documents](/project/documents.html) page for survey downloads as well as information on the feedback that we used to modify the NEST survey.
 
 ### Survey app
 
