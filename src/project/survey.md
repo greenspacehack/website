@@ -1,4 +1,4 @@
-<% set[ hero: "/images/hero/urban_park_joe_diaz_ccbynd.jpg", headline: "The survey" ] %>
+<% set[ hero: "/images/hero/urban_park_joe_diaz_ccbynd.jpg", headline: "e-NEST Tool" ] %>
 
 ## Developing the e-NEST Tool
 
