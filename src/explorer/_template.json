@@ -1,0 +1,9 @@
+{ "*.html": {
+	"before": ["/templates/header.html", "/templates/hero.erb", "/templates/start.html","<article id='content'>"],
+	"after": ["</article>","/templates/footer.html", "/templates/close_page.html"]
+  },
+  "*.md": {
+	"before": ["/templates/header.html", "/templates/hero.erb", "/templates/start.html","<article id='content'>"],
+	"after": ["</article>","/templates/footer.html", "/templates/close_page.html"]
+  }
+}

@@ -1,0 +1,44 @@
+<h2>Areas of multiple deprivation without nearby greenspace</h2>
+
+<p>By comparing Greenspace Hack data against other datasets, we can analyse people's proximity to greenspaces, and identify potential needs for new sites. In this example, we'll compare our data against the Index of Multiple Deprivation 2015 (IMD).</p>
+
+<p>IMD is mapped to Census LSOAs (Lower Layer Super Output Areas), which are areas of broadly equal population (1000-1500). Our methodology will be to take each LSOA in Oxfordshire in turn; filter to obtain only those which have over 20% of households with multiple deprivation; and then identify those which don't have a greenspace site within 1km.</p>
+
+<p>We'll use the <a href="http://turfjs.org">Turf</a> geospatial analysis library to aid our calculations.</p>
+
+<p><b>Caveat:</b> The results are, of course, dependent on the completeness of our survey. There are significantly deprived LSOAs in Chipping Norton and Arncott, for example. Since we did not survey greenspace in either area, our query will not find greenspace within 1km of these LSOAs. That doesn't mean there is no greenspace - only that we haven't surveyed it.<p>
+
+<ul>
+	<li>First, we fetch the greenspace data into 'greenspaces', and our augmented LSOA data (containing IMD scores) into 'lsoas'. (We use the <tt>async-get-json</tt> module to do this.)
+	<li>We create a new array, 'deprived'.
+	<li>We iterate through every feature in 'lsoas'. If its IMD "multiple deprivation" percentage is less than 20%, we skip it.
+	<li>If it's 20% or more, we look for the nearest greenspace, using Turf's 'nearestPoint' function.
+	<li>If that greenspace is 1km away or more, we add it to 'deprived'.
+	<li>Once our loop has finished, we make sure 'deprived' is the final value in the script, so that RunKit will show it on a map.
+</ul>
+
+<p>Click "run" to see the result.</p>
+
+<!-- RunKit code below here -->
+
+<script src="https://embed.runkit.com" data-element-id="code"></script>
+
+<div id="code">
+var turf = require("@turf/turf");
+var getJSON = require("async-get-json"); 
+var greenspaces = await getJSON("https://greenspacehack.com/data/sites_grouped.geojson");
+var lsoas = await getJSON("https://greenspacehack.com/data/oxfordshire_lsoas.geojson");
+
+// Find the most deprived LSOAs with no greenspace within 1km
+var deprived = [];
+turf.featureEach(lsoas, function(feature,index) {
+    if (feature.properties.multiple<20) return;
+    var nearestGreenspace = turf.nearestPoint(feature, greenspaces);
+    if (turf.distance(feature,nearestGreenspace)>=1) deprived.push(feature);
+});
+
+// Show on a map
+deprived;
+</div>
+
+<p>You can <a href="https://runkit.com/systemed/5ef0b8a23971d1001ad2746f">see this</a> on RunKit.</p>

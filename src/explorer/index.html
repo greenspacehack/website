@@ -1,0 +1,66 @@
+<h2>Data explorer</h2>
+
+<p><b>Explore our data!</b> Click "Run" and wait a few seconds to see the map.</p>
+
+<!-- RunKit code below here -->
+
+<script src="https://embed.runkit.com" data-element-id="code"></script>
+
+<div id="code">
+var turf = require("@turf/turf");
+var getJSON = require("async-get-json"); 
+var greenspaces = await getJSON("https://greenspacehack.com/data/sites_grouped.geojson");
+// When the last statement results in a GeoJSON output, it'll appear on a map...
+
+</div>
+
+<!-- RunKit code above here -->
+
+
+<h2>Filtering the data</h2>
+
+<p>Try a simple query. Copy this line then paste it at the end of the code box above, then click "Run" again.</p>
+
+<code>greenspaces.features.filter(feature => feature.properties['NESTLIKERT'].includes("Very Satisfied"))</code>
+
+<p>This filters the greenspace features to only select those where the satisfaction score (code "NESTLIKERT") was "Very Satisfied".</p>
+
+<p>We're using <a href="https://runkit.com/">RunKit</a>, which provides a "live" JavaScript environment in which you 
+can write code that interacts with our data. All npm modules are available, including the <a href="https://turfjs.org/">Turf</a> 
+geospatial analysis library. You'll see in the above example that RunKit always outputs the result of the last statement in the code. 
+Because this result is a GeoJSON object, RunKit is smart enough to show it on a map.</p>
+
+
+<h2>Working with our data</h2>
+
+<p>We provide an easy-to-use data dump in JSON format for you to experiment with. By using RunKit's live REPL 
+(read-eval-print loop) coding environment, you can experiment with it in your browser. Just use JavaScript 
+to slice and dice the data, and the results will be visualised on a browsable map.</p>
+
+<p>You'll find these files useful:</p>
+<ul>
+	<li><a href="https://greenspacehack.com/data/sites_grouped.geojson">https://greenspacehack.com/data/sites_grouped.geojson</a> -
+		GeoJSON of all sites. Properties include 'name', 'town', and answers to all e-NEST survey questions.
+		All answers are arrays of strings (typically with 1 or 2 elements, depending on the number of surveys done).
+	<li><a href="https://greenspacehack.com/data/oxfordshire_lsoas.geojson">https://greenspacehack.com/data/oxfordshire_lsoas.geojson</a> -
+		GeoJSON of all LSOAs in Oxfordshire (census Lower Layer Super Output Areas). Each centroid point represents a number of 
+		residents as expressed in the 'population' property (typically 1000-1500 but may be more). We have enhanced this with the 
+		Index of Multiple Deprivation 2015 scores (properties 'multiple','children','crime','education','environment','employment',
+		'health','housing_services','income','older_people').
+	<li><a href="https://greenspacehack.com/data/survey.json">https://greenspacehack.com/data/survey.json</a> is the list of
+		questions and possible answers. You probably won't want to load this into your RunKit code, but it'll show you what 
+		properties you can query, and what the possible values are.
+</ul>
+
+<p>We have a permissive CORS policy on these files, so we encourage you to load them into your projects. You can create 
+notebooks in RunKit using our examples as a starting point.</p>
+
+<h2>Examples</h2>
+
+<p>Here's two examples of simple analysis using our data in the RunKit environment:</p>
+
+<ul>
+	<li><a href="good_playgrounds.html">Playgrounds</a> - filtering to show those with a "Satisfied" or "Very Satisfied" rating
+	<li><a href="multiple_deprivation.html">Areas of multiple deprivation without nearby greenspace</a> - using Turf to find 
+		areas of multiple deprivation within Oxfordshire where there's no greenspace within 1km
+</ul>

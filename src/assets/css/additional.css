@@ -1,3 +1,5 @@
+h2 { margin-top: 1em; }
+
 /* Map page */
 
 #map {
@@ -42,4 +44,18 @@
 	position: fixed; top: 50%; left: 50%; transform: translate(-50%,-50%);
 	max-width: 80%; max-height: 80%;
 	border: 10px solid white;
+}
+
+/* Data explorer */
+
+code,tt {
+	font-family: "Lucida Console", Monaco, monospace;
+	background-color: #EEE;
+	padding: 2px;
+	font-size: small;
+}
+code {
+	display: block;
+	padding: 8px;
+	margin: 0 1em 1em 1em;
 }
