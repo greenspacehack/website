@@ -2,8 +2,9 @@
 
 ### Greenspace Hack audit tool
 
-* [App user interface](/downloads/greenspacehack_app_capture.pdf)
+* [App user interface](/downloads/greenspace_hack_app_capture.pdf)
 * [Printable version](/downloads/greenspace_hack_printable.pdf)
+* [Machine-readable JSON](/data/survey.json) (includes question numbers)
 
 ### NEST
 
