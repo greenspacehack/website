@@ -27,6 +27,7 @@
 	sites   = JSON.parse(File.read("src/data/greenspace_hack.geojson"))['features']
 
 	output_features = []
+	output_full = []
 	page_list = {}
 	ordering.each do |town,groups|
 		page_list[town] = []
@@ -47,6 +48,7 @@
 
 			# Iterate through all keys
 			header = false
+			answer_data = {}
 			keys.each do |k|
 				# Skip unless it's in the survey list
 				# EditDate, Editor, objectid, globalid, gssite, gsname, gsassessor, gsdaytime, gsstartAuto, gsendAuto, gsweather, gscomment, CreationDate, Creator
@@ -68,6 +70,7 @@
 				all_answers = features.collect { |f| f['properties'][k] }.uniq
 				all_answers.map! { |v| s['answer_values'] ? s['answer_values'][v.to_i-1] : v }
 				all_answers.map! { |v| v.gsub('_',' ') unless v.nil? }
+				answer_data[k] = all_answers.dup
 				outfile << "<div class='question'><span>#{q}:</span><span>#{all_answers.join('; ')}</span></div>"
 			end
 			if features.length>1
@@ -97,6 +100,11 @@
 				properties: { name: name, url: "/directory/#{fn}.html" },
 				geometry: { type: 'Point', coordinates: [lon,lat] }
 			}
+			output_full << {
+				type: 'Feature',
+				properties: answer_data.merge( name: name ),
+				geometry: { type: 'Point', coordinates: [lon,lat] }
+			}
 			outfile.close
 		end
 	end
@@ -117,3 +125,7 @@
 	# Output GeoJSON index
 	geojson = { type: 'FeatureCollection', features: output_features }
 	File.write("src/data/map_index.geojson", geojson.to_json)
+
+	# Output GeoJSON complete dataset
+	geojson = { type: 'FeatureCollection', features: output_full }
+	File.write("src/data/sites_grouped.geojson", JSON.pretty_generate(geojson))
