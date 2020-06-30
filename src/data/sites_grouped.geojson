@@ -231,7 +231,8 @@
         "NESTLIKERT": [
           "Very Satisfied"
         ],
-        "name": "Abbey Meadow"
+        "name": "Abbey Meadow",
+        "town": "Abingdon"
       },
       "geometry": {
         "type": "Point",
@@ -477,7 +478,8 @@
         "NESTLIKERT": [
           "Very Satisfied"
         ],
-        "name": "Abingdon Bridge Marine Public Park"
+        "name": "Abingdon Bridge Marine Public Park",
+        "town": "Abingdon"
       },
       "geometry": {
         "type": "Point",
@@ -715,7 +717,8 @@
           "Satisfied",
           "Neutral"
         ],
-        "name": "Abingdon Tennis Club"
+        "name": "Abingdon Tennis Club",
+        "town": "Abingdon"
       },
       "geometry": {
         "type": "Point",
@@ -956,7 +959,8 @@
         "NESTLIKERT": [
           "Satisfied"
         ],
-        "name": "Albert Park"
+        "name": "Albert Park",
+        "town": "Abingdon"
       },
       "geometry": {
         "type": "Point",
@@ -1209,7 +1213,8 @@
           "Neutral",
           "Satisfied"
         ],
-        "name": "Boxhill Park"
+        "name": "Boxhill Park",
+        "town": "Abingdon"
       },
       "geometry": {
         "type": "Point",
@@ -1452,7 +1457,8 @@
         "NESTLIKERT": [
           "Very Satisfied"
         ],
-        "name": "Marcham Road Pocket Park"
+        "name": "Marcham Road Pocket Park",
+        "town": "Abingdon"
       },
       "geometry": {
         "type": "Point",
@@ -1692,7 +1698,8 @@
         "NESTLIKERT": [
           "Very Satisfied"
         ],
-        "name": "Southern Town Park"
+        "name": "Southern Town Park",
+        "town": "Abingdon"
       },
       "geometry": {
         "type": "Point",
@@ -1935,7 +1942,8 @@
         "NESTLIKERT": [
           "Very Satisfied"
         ],
-        "name": "St Helens Wharf"
+        "name": "St Helens Wharf",
+        "town": "Abingdon"
       },
       "geometry": {
         "type": "Point",
@@ -2181,7 +2189,8 @@
         "NESTLIKERT": [
           "Very Satisfied"
         ],
-        "name": "Tilsley Park"
+        "name": "Tilsley Park",
+        "town": "Abingdon"
       },
       "geometry": {
         "type": "Point",
@@ -2409,7 +2418,8 @@
         "NESTLIKERT": [
           "Very Satisfied"
         ],
-        "name": "Bankside Park"
+        "name": "Bankside Park",
+        "town": "Banbury"
       },
       "geometry": {
         "type": "Point",
@@ -2647,7 +2657,8 @@
         "NESTLIKERT": [
           "Satisfied"
         ],
-        "name": "Burns Road Green Space"
+        "name": "Burns Road Green Space",
+        "town": "Banbury"
       },
       "geometry": {
         "type": "Point",
@@ -2885,7 +2896,8 @@
           "Satisfied",
           "Very Satisfied"
         ],
-        "name": "Chandos Close Park"
+        "name": "Chandos Close Park",
+        "town": "Banbury"
       },
       "geometry": {
         "type": "Point",
@@ -3102,7 +3114,8 @@
         "NESTLIKERT": [
           "Satisfied"
         ],
-        "name": "Easington Park"
+        "name": "Easington Park",
+        "town": "Banbury"
       },
       "geometry": {
         "type": "Point",
@@ -3338,7 +3351,8 @@
           "Satisfied",
           "Very Satisfied"
         ],
-        "name": "Grimsbury Square Park"
+        "name": "Grimsbury Square Park",
+        "town": "Banbury"
       },
       "geometry": {
         "type": "Point",
@@ -3576,7 +3590,8 @@
         "NESTLIKERT": [
           "Satisfied"
         ],
-        "name": "Horton View Sports Ground"
+        "name": "Horton View Sports Ground",
+        "town": "Banbury"
       },
       "geometry": {
         "type": "Point",
@@ -3805,7 +3820,8 @@
         "NESTLIKERT": [
           "Very Satisfied"
         ],
-        "name": "Moorfield Park"
+        "name": "Moorfield Park",
+        "town": "Banbury"
       },
       "geometry": {
         "type": "Point",
@@ -4038,7 +4054,8 @@
         "NESTLIKERT": [
           "Very Satisfied"
         ],
-        "name": "People's Park"
+        "name": "People's Park",
+        "town": "Banbury"
       },
       "geometry": {
         "type": "Point",
@@ -4274,7 +4291,8 @@
         "NESTLIKERT": [
           "Very Satisfied"
         ],
-        "name": "Princess Diana Park"
+        "name": "Princess Diana Park",
+        "town": "Banbury"
       },
       "geometry": {
         "type": "Point",
@@ -4513,7 +4531,8 @@
         "NESTLIKERT": [
           "Very Satisfied"
         ],
-        "name": "Spiceball Park"
+        "name": "Spiceball Park",
+        "town": "Banbury"
       },
       "geometry": {
         "type": "Point",
@@ -4744,7 +4763,8 @@
           "Very Satisfied",
           "Satisfied"
         ],
-        "name": "St Louis Meadow Park"
+        "name": "St Louis Meadow Park",
+        "town": "Banbury"
       },
       "geometry": {
         "type": "Point",
@@ -4961,7 +4981,8 @@
         "NESTLIKERT": [
           "Satisfied"
         ],
-        "name": "Trinity Park, Bretch Hill"
+        "name": "Trinity Park, Bretch Hill",
+        "town": "Banbury"
       },
       "geometry": {
         "type": "Point",
@@ -5178,7 +5199,8 @@
         "NESTLIKERT": [
           "Very Satisfied"
         ],
-        "name": "Old Place Yard"
+        "name": "Old Place Yard",
+        "town": "Bicester"
       },
       "geometry": {
         "type": "Point",
@@ -5414,7 +5436,8 @@
         "NESTLIKERT": [
           "Very Satisfied"
         ],
-        "name": "Garth Park"
+        "name": "Garth Park",
+        "town": "Bicester"
       },
       "geometry": {
         "type": "Point",
@@ -5631,7 +5654,8 @@
         "NESTLIKERT": [
           "Unsatisfied"
         ],
-        "name": "George/Hudson Street field"
+        "name": "George/Hudson Street field",
+        "town": "Bicester"
       },
       "geometry": {
         "type": "Point",
@@ -5848,7 +5872,8 @@
         "NESTLIKERT": [
           "Very Satisfied"
         ],
-        "name": "Jubilee Lake Langford Village"
+        "name": "Jubilee Lake Langford Village",
+        "town": "Bicester"
       },
       "geometry": {
         "type": "Point",
@@ -6080,7 +6105,8 @@
         "NESTLIKERT": [
           "Satisfied"
         ],
-        "name": "Keble Rd (Spider Park)"
+        "name": "Keble Rd (Spider Park)",
+        "town": "Bicester"
       },
       "geometry": {
         "type": "Point",
@@ -6317,7 +6343,8 @@
         "NESTLIKERT": [
           "Very Satisfied"
         ],
-        "name": "Langford Brook"
+        "name": "Langford Brook",
+        "town": "Bicester"
       },
       "geometry": {
         "type": "Point",
@@ -6534,7 +6561,8 @@
         "NESTLIKERT": [
           "Satisfied"
         ],
-        "name": "Langford Community Orchard"
+        "name": "Langford Community Orchard",
+        "town": "Bicester"
       },
       "geometry": {
         "type": "Point",
@@ -6771,7 +6799,8 @@
           "Satisfied",
           "Neutral"
         ],
-        "name": "Launton Sports & Social Club"
+        "name": "Launton Sports & Social Club",
+        "town": "Bicester"
       },
       "geometry": {
         "type": "Point",
@@ -6997,7 +7026,8 @@
           "Satisfied",
           "Very Satisfied"
         ],
-        "name": "Sheen Close (main Caversfield Play Park)"
+        "name": "Sheen Close (main Caversfield Play Park)",
+        "town": "Bicester"
       },
       "geometry": {
         "type": "Point",
@@ -7221,7 +7251,8 @@
         "NESTLIKERT": [
           "Satisfied"
         ],
-        "name": "Southern Road Recreation Area"
+        "name": "Southern Road Recreation Area",
+        "town": "Bicester"
       },
       "geometry": {
         "type": "Point",
@@ -7438,7 +7469,8 @@
         "NESTLIKERT": [
           "Very Satisfied"
         ],
-        "name": "Southwold Park"
+        "name": "Southwold Park",
+        "town": "Bicester"
       },
       "geometry": {
         "type": "Point",
@@ -7669,7 +7701,8 @@
         "NESTLIKERT": [
           "Neutral"
         ],
-        "name": "Sunderland Drive"
+        "name": "Sunderland Drive",
+        "town": "Bicester"
       },
       "geometry": {
         "type": "Point",
@@ -7910,7 +7943,8 @@
           "Neutral",
           "Satisfied"
         ],
-        "name": "Barleyfields/Collingwood Avenue"
+        "name": "Barleyfields/Collingwood Avenue",
+        "town": "Didcot"
       },
       "geometry": {
         "type": "Point",
@@ -8147,7 +8181,8 @@
           "Unsatisfied",
           "Neutral"
         ],
-        "name": "Boundary Park"
+        "name": "Boundary Park",
+        "town": "Didcot"
       },
       "geometry": {
         "type": "Point",
@@ -8364,7 +8399,8 @@
         "NESTLIKERT": [
           "Satisfied"
         ],
-        "name": "Edmonds Park"
+        "name": "Edmonds Park",
+        "town": "Didcot"
       },
       "geometry": {
         "type": "Point",
@@ -8599,7 +8635,8 @@
         "NESTLIKERT": [
           "Very Satisfied"
         ],
-        "name": "Great Mead (East Hagbourne Recreation Ground)"
+        "name": "Great Mead (East Hagbourne Recreation Ground)",
+        "town": "Didcot"
       },
       "geometry": {
         "type": "Point",
@@ -8838,7 +8875,8 @@
         "NESTLIKERT": [
           "Very Satisfied"
         ],
-        "name": "Ladygrove Lakes"
+        "name": "Ladygrove Lakes",
+        "town": "Didcot"
       },
       "geometry": {
         "type": "Point",
@@ -9070,7 +9108,8 @@
           "Satisfied",
           "Very Satisfied"
         ],
-        "name": "Ladygrove Park"
+        "name": "Ladygrove Park",
+        "town": "Didcot"
       },
       "geometry": {
         "type": "Point",
@@ -9303,7 +9342,8 @@
           "Neutral",
           "Satisfied"
         ],
-        "name": "Loyd Park"
+        "name": "Loyd Park",
+        "town": "Didcot"
       },
       "geometry": {
         "type": "Point",
@@ -9545,7 +9585,8 @@
           "Very Satisfied",
           "Satisfied"
         ],
-        "name": "Millennium Wood"
+        "name": "Millennium Wood",
+        "town": "Didcot"
       },
       "geometry": {
         "type": "Point",
@@ -9783,7 +9824,8 @@
         "NESTLIKERT": [
           "Very Satisfied"
         ],
-        "name": "Smallbone Recreation Ground"
+        "name": "Smallbone Recreation Ground",
+        "town": "Didcot"
       },
       "geometry": {
         "type": "Point",
@@ -10019,7 +10061,8 @@
         "NESTLIKERT": [
           "Neutral"
         ],
-        "name": "Ashdene Road"
+        "name": "Ashdene Road",
+        "town": "Oxford"
       },
       "geometry": {
         "type": "Point",
@@ -10264,7 +10307,8 @@
           "Satisfied",
           "Very Satisfied"
         ],
-        "name": "Barton Park"
+        "name": "Barton Park",
+        "town": "Oxford"
       },
       "geometry": {
         "type": "Point",
@@ -10508,7 +10552,8 @@
           "Satisfied",
           "Neutral"
         ],
-        "name": "Blackbird Leys Park"
+        "name": "Blackbird Leys Park",
+        "town": "Oxford"
       },
       "geometry": {
         "type": "Point",
@@ -10748,7 +10793,8 @@
           "Satisfied",
           "Neutral"
         ],
-        "name": "Blackbird Leys Play Space Dunnock Way"
+        "name": "Blackbird Leys Play Space Dunnock Way",
+        "town": "Oxford"
       },
       "geometry": {
         "type": "Point",
@@ -10986,7 +11032,8 @@
         "NESTLIKERT": [
           "Very Satisfied"
         ],
-        "name": "Bure Park Nature Reserve"
+        "name": "Bure Park Nature Reserve",
+        "town": "Oxford"
       },
       "geometry": {
         "type": "Point",
@@ -11203,7 +11250,8 @@
         "NESTLIKERT": [
           "Very Satisfied"
         ],
-        "name": "Bury Knowle Park"
+        "name": "Bury Knowle Park",
+        "town": "Oxford"
       },
       "geometry": {
         "type": "Point",
@@ -11448,7 +11496,8 @@
         "NESTLIKERT": [
           "Satisfied"
         ],
-        "name": "Cutteslowe & Sunnymeade Park"
+        "name": "Cutteslowe & Sunnymeade Park",
+        "town": "Oxford"
       },
       "geometry": {
         "type": "Point",
@@ -11695,7 +11744,8 @@
         "NESTLIKERT": [
           "Neutral"
         ],
-        "name": "Dashwood Road Park"
+        "name": "Dashwood Road Park",
+        "town": "Oxford"
       },
       "geometry": {
         "type": "Point",
@@ -11943,7 +11993,8 @@
           "Satisfied",
           "Neutral"
         ],
-        "name": "Exeter Close Park"
+        "name": "Exeter Close Park",
+        "town": "Oxford"
       },
       "geometry": {
         "type": "Point",
@@ -12193,7 +12244,8 @@
         "NESTLIKERT": [
           "Satisfied"
         ],
-        "name": "Florence Park"
+        "name": "Florence Park",
+        "town": "Oxford"
       },
       "geometry": {
         "type": "Point",
@@ -12438,7 +12490,8 @@
         "NESTLIKERT": [
           "Satisfied"
         ],
-        "name": "Fry’s Hill Park"
+        "name": "Fry’s Hill Park",
+        "town": "Oxford"
       },
       "geometry": {
         "type": "Point",
@@ -12684,7 +12737,8 @@
         "NESTLIKERT": [
           "Neutral"
         ],
-        "name": "Grandpont Community Space"
+        "name": "Grandpont Community Space",
+        "town": "Oxford"
       },
       "geometry": {
         "type": "Point",
@@ -12926,7 +12980,8 @@
           "Very Satisfied",
           "Satisfied"
         ],
-        "name": "Headington Hill Park"
+        "name": "Headington Hill Park",
+        "town": "Oxford"
       },
       "geometry": {
         "type": "Point",
@@ -13169,7 +13224,8 @@
         "NESTLIKERT": [
           "Satisfied"
         ],
-        "name": "Hinksey Park"
+        "name": "Hinksey Park",
+        "town": "Oxford"
       },
       "geometry": {
         "type": "Point",
@@ -13418,7 +13474,8 @@
         "NESTLIKERT": [
           "Satisfied"
         ],
-        "name": "Iffley Lock"
+        "name": "Iffley Lock",
+        "town": "Oxford"
       },
       "geometry": {
         "type": "Point",
@@ -13635,7 +13692,8 @@
         "NESTLIKERT": [
           "Unsatisfied"
         ],
-        "name": "Meadow Building"
+        "name": "Meadow Building",
+        "town": "Oxford"
       },
       "geometry": {
         "type": "Point",
@@ -13873,7 +13931,8 @@
         "NESTLIKERT": [
           "Neutral"
         ],
-        "name": "Medley Manor Farm"
+        "name": "Medley Manor Farm",
+        "town": "Oxford"
       },
       "geometry": {
         "type": "Point",
@@ -14112,7 +14171,8 @@
         "NESTLIKERT": [
           "Satisfied"
         ],
-        "name": "Oxford Playing Field, Rock Farm Lane"
+        "name": "Oxford Playing Field, Rock Farm Lane",
+        "town": "Oxford"
       },
       "geometry": {
         "type": "Point",
@@ -14363,7 +14423,8 @@
         "NESTLIKERT": [
           "Unsatisfied"
         ],
-        "name": "Oxford Road, Old Marston"
+        "name": "Oxford Road, Old Marston",
+        "town": "Oxford"
       },
       "geometry": {
         "type": "Point",
@@ -14609,7 +14670,8 @@
           "Satisfied",
           "Neutral"
         ],
-        "name": "Pether Road"
+        "name": "Pether Road",
+        "town": "Oxford"
       },
       "geometry": {
         "type": "Point",
@@ -14850,7 +14912,8 @@
         "NESTLIKERT": [
           "Satisfied"
         ],
-        "name": "Plater Drive"
+        "name": "Plater Drive",
+        "town": "Oxford"
       },
       "geometry": {
         "type": "Point",
@@ -15094,7 +15157,8 @@
         "NESTLIKERT": [
           "Neutral"
         ],
-        "name": "Ridgeway Road Park/Barton Playspace"
+        "name": "Ridgeway Road Park/Barton Playspace",
+        "town": "Oxford"
       },
       "geometry": {
         "type": "Point",
@@ -15311,7 +15375,8 @@
         "NESTLIKERT": [
           "Very Satisfied"
         ],
-        "name": "Shakespeare Drive Park"
+        "name": "Shakespeare Drive Park",
+        "town": "Oxford"
       },
       "geometry": {
         "type": "Point",
@@ -15554,7 +15619,8 @@
           "Satisfied",
           "Very Satisfied"
         ],
-        "name": "Shotover"
+        "name": "Shotover",
+        "town": "Oxford"
       },
       "geometry": {
         "type": "Point",
@@ -15795,7 +15861,8 @@
           "Unsatisfied",
           "Very Unsatisfied"
         ],
-        "name": "St. Mary’s Vicarage"
+        "name": "St. Mary’s Vicarage",
+        "town": "Oxford"
       },
       "geometry": {
         "type": "Point",
@@ -16012,7 +16079,8 @@
         "NESTLIKERT": [
           "Neutral"
         ],
-        "name": "The Links Play Area Kennington"
+        "name": "The Links Play Area Kennington",
+        "town": "Oxford"
       },
       "geometry": {
         "type": "Point",
@@ -16259,7 +16327,8 @@
           "Satisfied",
           "Very Satisfied"
         ],
-        "name": "University Parks, Oxford"
+        "name": "University Parks, Oxford",
+        "town": "Oxford"
       },
       "geometry": {
         "type": "Point",
@@ -16496,7 +16565,8 @@
         "NESTLIKERT": [
           "Neutral"
         ],
-        "name": "Victoria Arms, Mill Lane"
+        "name": "Victoria Arms, Mill Lane",
+        "town": "Oxford"
       },
       "geometry": {
         "type": "Point",
@@ -16740,7 +16810,8 @@
           "Neutral",
           "Satisfied"
         ],
-        "name": "Wolvercote Cemetery"
+        "name": "Wolvercote Cemetery",
+        "town": "Oxford"
       },
       "geometry": {
         "type": "Point",
@@ -16981,7 +17052,8 @@
           "Satisfied",
           "Neutral"
         ],
-        "name": "Wytham Play Field"
+        "name": "Wytham Play Field",
+        "town": "Oxford"
       },
       "geometry": {
         "type": "Point",
@@ -17208,7 +17280,8 @@
           "Satisfied",
           "Neutral"
         ],
-        "name": "Elms Park Recreation Area, Thame"
+        "name": "Elms Park Recreation Area, Thame",
+        "town": "Thame"
       },
       "geometry": {
         "type": "Point",
@@ -17425,7 +17498,8 @@
         "NESTLIKERT": [
           "Neutral"
         ],
-        "name": "Beside Em's Ditch"
+        "name": "Beside Em's Ditch",
+        "town": "Witney"
       },
       "geometry": {
         "type": "Point",
@@ -17666,7 +17740,8 @@
         "NESTLIKERT": [
           "Very Satisfied"
         ],
-        "name": "Burwell Recreation Ground"
+        "name": "Burwell Recreation Ground",
+        "town": "Witney"
       },
       "geometry": {
         "type": "Point",
@@ -17908,7 +17983,8 @@
         "NESTLIKERT": [
           "Satisfied"
         ],
-        "name": "Church Green"
+        "name": "Church Green",
+        "town": "Witney"
       },
       "geometry": {
         "type": "Point",
@@ -18125,7 +18201,8 @@
         "NESTLIKERT": [
           "Neutral"
         ],
-        "name": "Gordon Way"
+        "name": "Gordon Way",
+        "town": "Witney"
       },
       "geometry": {
         "type": "Point",
@@ -18361,7 +18438,8 @@
         "NESTLIKERT": [
           "Satisfied"
         ],
-        "name": "Raleigh Crescent"
+        "name": "Raleigh Crescent",
+        "town": "Witney"
       },
       "geometry": {
         "type": "Point",
@@ -18603,7 +18681,8 @@
         "NESTLIKERT": [
           "Very Satisfied"
         ],
-        "name": "The Leys"
+        "name": "The Leys",
+        "town": "Witney"
       },
       "geometry": {
         "type": "Point",
@@ -18820,7 +18899,8 @@
         "NESTLIKERT": [
           "Very Satisfied"
         ],
-        "name": "Tower Hill Cemetery"
+        "name": "Tower Hill Cemetery",
+        "town": "Witney"
       },
       "geometry": {
         "type": "Point",
@@ -19053,7 +19133,8 @@
           "Satisfied",
           "Very Satisfied"
         ],
-        "name": "Wash Meadow Minster Lovell"
+        "name": "Wash Meadow Minster Lovell",
+        "town": "Witney"
       },
       "geometry": {
         "type": "Point",
@@ -19292,7 +19373,8 @@
         "NESTLIKERT": [
           "Very Satisfied"
         ],
-        "name": "West Witney Sports and Social Club"
+        "name": "West Witney Sports and Social Club",
+        "town": "Witney"
       },
       "geometry": {
         "type": "Point",
@@ -19536,7 +19618,8 @@
         "NESTLIKERT": [
           "Very Satisfied"
         ],
-        "name": "Witney Lake and Country Park"
+        "name": "Witney Lake and Country Park",
+        "town": "Witney"
       },
       "geometry": {
         "type": "Point",

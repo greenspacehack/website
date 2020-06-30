@@ -102,7 +102,7 @@
 			}
 			output_full << {
 				type: 'Feature',
-				properties: answer_data.merge( name: name ),
+				properties: answer_data.merge( name: name, town: town ),
 				geometry: { type: 'Point', coordinates: [lon,lat] }
 			}
 			outfile.close
