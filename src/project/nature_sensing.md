@@ -12,6 +12,14 @@ Once configured, Citizen Scientists will be asked to safely deploy an AudioMoth 
 
 Once the two-week data collection period is complete, the AudioMoth can be taken down and returned to the study team for data analysis in the pre-paid envelope provided.
 
+### See what we've been doing
+
+One of the first locations we're installing AudioMoths is at Blenheim Palace. David Green, Head of Innovation at Blenheim, explains:
+
+“We’re delighted to have the opportunity to participate in this study and it will be fascinating to hear the results. A key part of Blenheim’s Land Strategy is something we are calling the ‘Natural Health Service’, which is how we can share the estate with a wider audience to promote the benefits both of exercise and interacting with the countryside for mental and physical wellbeing. Hopefully the findings from this research will provide additional evidence of how important nature and access to green spaces is for all of us.”
+
+You can [find out more on Blenheim's website](https://www.blenheimestate.com/news/measuring-our-biodiversity-as-part-of-nationwide-wellbeing-study.html).
+
 ### Data Collection & Privacy
 
 A consortium of partners including the University of Oxford, University of Newcastle and Oxfordshire County Council will analyse the data collected by the Citizen Scientist.
