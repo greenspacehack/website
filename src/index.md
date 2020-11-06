@@ -16,3 +16,8 @@ If you would like to get involved and capture information about your local green
 [<img src="/images/logos/george_institute.png">](https://www.georgeinstitute.org) &nbsp;
 [<img src="/images/logos/oxfordshire.png">](https://www.oxfordshire.gov.uk/) &nbsp;
 [<img src="/images/logos/university_of_oxford.png">](https://www.ox.ac.uk/)
+
+### Funded by
+
+[<img src="/images/logos/research_england.png">](https://re.ukri.org) &nbsp;
+[<img src="/images/logos/pitch_in.png">](https://pitch-in.ac.uk)
