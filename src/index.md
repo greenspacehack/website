@@ -1,5 +1,17 @@
 <% set[hero: "/images/hero/oxford_park.jpg", headline: "Greenspace Hack"] %>
 
+### Survey your local greenspace
+
+Participate in the Greenspace Hack project by surveying your local greenspace!
+
+With our easy-to-use app, you can carry out a full survey of parks, playgrounds, woodland and other local greenspace in minutes. Simply install the free app on your phone and take it with you on your next visit.
+
+[<img src="/images/logos/app_store_189x63.png">](https://apps.apple.com/us/app/id1548769971) &nbsp; &nbsp;
+[<img src="/images/logos/google_play_212x63.png">](https://play.google.com/store/apps/details?id=net.systemed.greenspace)
+
+
+### About the project
+
 Emerging evidence suggests that greenspace, whether used for recreation or physical activity (i.e. ‘green exercise’), can improve mental health and wellbeing. Indeed, individuals who use greenspaces or engage in green exercise have <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5663018/">less mental distress, less anxiety and depression and healthier cortisol levels</a>.
 
 GreenspaceHack aims to facilitate better design of greenspaces to promote health by providing robust evidence on which characteristics of greenspace citizens value most and which contribute to promoting healthier urban environments at individual and local levels. The project aims to engage citizens and utilises a crowdsource-enabled smartphone survey based on the <a href="https://www.sciencedirect.com/science/article/abs/pii/S1618866717301917">validated NEST tool</a> to offer a simple, intuitive method for community groups, parish councils, and other stakeholders to provide information about their local green spaces - “curated crowdsourcing”.
