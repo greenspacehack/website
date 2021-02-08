@@ -33,3 +33,7 @@ If you would like to get involved and capture information about your local green
 
 [<img src="/images/logos/research_england.png">](https://re.ukri.org) &nbsp;
 [<img src="/images/logos/pitch_in.png">](https://pitch-in.ac.uk)
+
+### Working with
+
+[<img src="/images/logos/peak_urban.png">](https://www.peak-urban.org)
