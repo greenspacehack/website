@@ -9,7 +9,7 @@
 <div id="code">
 var turf = require("@turf/turf");
 var getJSON = require("async-get-json"); 
-var greenspaces = await getJSON("https://greenspacehack.com/data/sites_grouped.geojson");
+var greenspaces = await getJSON("https://greenspacehack.com/data/summary.geojson");
 // When the last statement results in a GeoJSON output, it'll appear on a map...
 
 </div>
@@ -21,9 +21,9 @@ var greenspaces = await getJSON("https://greenspacehack.com/data/sites_grouped.g
 
 <p>Try a simple query. Copy this line then paste it at the end of the code box above, then click "Run" again.</p>
 
-<code>greenspaces.features.filter(feature => feature.properties['NESTLIKERT'].includes("Very Satisfied"))</code>
+<code>greenspaces.features.filter(feature => (feature.properties['NESTLIKERT'] '').includes("Very_Satisfied"))</code>
 
-<p>This filters the greenspace features to only select those where the satisfaction score (code "NESTLIKERT") was "Very Satisfied".</p>
+<p>This filters the greenspace features to only select those where the satisfaction score (code "NESTLIKERT") was "Very_Satisfied".</p>
 
 <p>We're using <a href="https://runkit.com/">RunKit</a>, which provides a "live" JavaScript environment in which you 
 can write code that interacts with our data. All npm modules are available, including the <a href="https://turfjs.org/">Turf</a> 
@@ -39,9 +39,10 @@ to slice and dice the data, and the results will be visualised on a browsable ma
 
 <p>You'll find these files useful:</p>
 <ul>
-	<li><a href="https://greenspacehack.com/data/sites_grouped.geojson">https://greenspacehack.com/data/sites_grouped.geojson</a> -
+	<li><a href="https://greenspacehack.com/data/full.geojson">https://greenspacehack.com/data/full.geojson</a> -
 		GeoJSON of all sites. Properties include 'name', 'town', and answers to all e-NEST survey questions.
-		All answers are arrays of strings (typically with 1 or 2 elements, depending on the number of surveys done).
+	<li><a href="https://greenspacehack.com/data/summary.geojson">https://greenspacehack.com/data/summary.geojson</a> -
+		GeoJSON of all sites but without full answers.
 	<li><a href="https://greenspacehack.com/data/oxfordshire_lsoas.geojson">https://greenspacehack.com/data/oxfordshire_lsoas.geojson</a> -
 		GeoJSON of all LSOAs in Oxfordshire (census Lower Layer Super Output Areas). Each centroid point represents a number of 
 		residents as expressed in the 'population' property (typically 1000-1500 but may be more). We have enhanced this with the 

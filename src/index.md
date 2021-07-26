@@ -18,7 +18,7 @@ GreenspaceHack aims to facilitate better design of greenspaces to promote health
 
 As well as informing the planning process, the collected data is released openly for projects such as OpenStreetMap, so that better greenspace information is available to residents in the apps they use every day.
  
-To see a list of the greenspaces that have been captured to date, please visit the Map and Directory pages.
+To see a list of the greenspaces that have been captured to date, please visit the Map page.
 
 If you would like to get involved and capture information about your local greenspaces using the eNEST tool, please get in touch with us (anant.r.jani@gmail.com).
 

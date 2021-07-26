@@ -14,7 +14,7 @@ function mapOnLoad() {
 	L.control.layers({ "OpenStreetMap": osm, "Greenspace": gsm }).addTo(map);
 
 	// Load data
-	$.ajax({ url: "/data/map_index.geojson", dataType: "json", success: loadData });
+	$.ajax({ url: "/data/summary.geojson", dataType: "json", success: loadData });
 }
 
 var features = [];
@@ -24,7 +24,7 @@ function loadData(data,status,xhr) {
 	for (var i=0; i<features.length; i++) {
 		var feature = features[i];
 		var ll = feature.geometry.coordinates.reverse();
-		var html = feature.properties.name+"<br/><a href='"+feature.properties.url+"'>View in directory</a>";
+		var html = feature.properties.name+"<br/><a href='"+feature.properties.url+"'>View full details</a>";
 		L.marker(ll).addTo(map).bindPopup(html);
 	}
 }

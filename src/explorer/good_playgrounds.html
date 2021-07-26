@@ -17,10 +17,10 @@
 
 <div id="code">
 var getJSON = require("async-get-json"); 
-var greenspaces = await getJSON("https://greenspacehack.com/data/sites_grouped.geojson");
+var greenspaces = await getJSON("https://greenspacehack.com/data/full.geojson");
 
-var playgrounds = greenspaces.features.filter(feature => feature.properties['R1P'].includes("Yes"));
-var good_playgrounds = playgrounds.filter(feature => feature.properties['NESTLIKERT'].includes("Very Satisfied") || feature.properties['NESTLIKERT'].includes("Satisfied"));
+var playgrounds = greenspaces.features.filter(feature => (feature.properties['R1P'] || '').includes("Yes"));
+var good_playgrounds = playgrounds.filter(feature => (feature.properties['NESTLIKERT'] || '').includes("Very_Satisfied") || (feature.properties['NESTLIKERT'] || '').includes("Satisfied"));
 </div>
 
 <p>You can <a href="https://runkit.com/systemed/5efb3fb9fb2994001ae595de">see an expanded version of this</a> on RunKit.</p>
