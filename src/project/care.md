@@ -1,0 +1,7 @@
+## Countryside Access, Recreation, and Environmental Stewardship
+
+There is a drive to increase people's exposure to nature through outdoor exercise and contact with nature given the many health and wellbeing benefits this provides.  At the same time, however, there is also a need to ensure that nature is protected - there have been a number of incidences across the country of undesirable actions and activities taking place, including damage to property and the environment. Many of these incidents came about as the result of a lack of understanding of how to engage positively with the natural environment, rather than by deliberate acts of damage.  
+
+Natural England, which helps the government protect England’s natural places (nature and landscapes), is conducting a series of surveys and pilots tests as part of the CARE (Countryside Access, Recreation, and Environmental Stewardship) project to identify strategies to design solutions that will help people to engage with nature in a way that maintains and preserves it in line with the Countryside Code.  The project is being run in collaboration with the University of Oxford, Blenheim Palace, Eden Project, The Ramblers and Oxfordshire County Council.  
+
+The results will be published as part of a Natural England Research Report. If you have any questions or would like to receive future updates regarding the project, please reach out to anant.r.jani@gmail.com.

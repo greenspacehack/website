@@ -34,6 +34,10 @@ No identifiable data will be stored by project partners. Datasets used for analy
 
 ### Interested?
 
-If you would like to volunteer as a Citizen Scientist or discuss the project further, you can contact Sridhar.Raman@oxfordshire.gov.uk.
+More information on the user setup can be [seen here](/sensing).
+
+### Results
+
+The results of the project can be [read here](/downloads/nature_sensing_output_report.pdf).
 
 This project has been funded by a Research England grant awarded to the University of Oxford.
